@@ -18,4 +18,4 @@ The following table summarizes the execution efficiency of the integrated privac
 | **Differential Privacy** | 0.0030 | [cite_start]Meaningful Utility (ε = 1.0) [cite: 617, 656] |
 | **Secure Multi-Party Computation** | 0.0000 | [cite_start]100% (Identical to merged data) [cite: 625, 656] |
 
-![Project Architecture](docs/Blockchain Pic.png)
+![Project Architecture](Blockchain Pic.png)
